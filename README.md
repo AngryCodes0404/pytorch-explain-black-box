@@ -79,4 +79,3 @@ but this can really be changed to many other combinations (try it out and find s
 
 Also now gaussian noise with a sigma of 0.2 is added to the preprocssed image at each iteration,
 inspired by google's SmoothGradient.
-
